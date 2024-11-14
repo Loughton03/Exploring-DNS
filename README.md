@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4cdf5bc7-d7b6-4638-965e-85584085fd59)<p align="center">
+<p align="center">
 <img src="" alt="place-holder"/>
 </p>
 
