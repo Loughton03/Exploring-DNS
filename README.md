@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/4cdf5bc7-d7b6-4638-965e-85584085fd59)<p align="center">
 <img src="" alt="place-holder"/>
 </p>
 
@@ -28,7 +28,7 @@ This lab focuses on the practical application of DNS, a core IT concept, by conf
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/UoxOh10.png" height="80%" width="80%" alt="successful-mainframe-ping"/>
 </p>
 
 <p>
@@ -36,19 +36,19 @@ To test name resolution, I started on the client VM by pinging "mainframe," whic
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/XPhLYUK.png" height="80%" width="80%" alt="changed-DNS-address"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/pxzVer9.png" height="80%" width="80%" alt="DNS-resolves-old-address"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/iTb0xG4.png" height="80%" width="80%" alt="displayDNS"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/jTedkGT.png" height="80%" width="80%" alt="successful-DNS-change"/>
 </p>
 
 <p>
