@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="place-holder"/>
+<img src="https://i.imgur.com/1tzHtTS.png" alt="logo"/>
 </p>
 
 <h1>Exploring DNS in Practice</h1>
