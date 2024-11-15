@@ -56,15 +56,11 @@ I changed the "mainframe" DNS record's IP address to 8.8.8.8 (Google's public DN
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/dusaQcB.png" height="80%" width="80%" alt="configure-cname-record"/>
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
-</p>
-
-<p>
-<img src="" height="80%" width="80%" alt="place-holder"/>
+<img src="https://i.imgur.com/Rlw8Bz9.png" height="80%" width="80%" alt="cname-record-ping"/>
 </p>
 
 <p>
